@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-17T14:34:27 IST" name="Default suite" finished-at="2022-05-17T14:35:05 IST" duration-ms="38098">
+    <groups>
+    </groups>
+    <test started-at="2022-05-17T14:34:27 IST" name="Default test" finished-at="2022-05-17T14:35:05 IST" duration-ms="38098">
+      <class name="main.TestCases">
+        <test-method signature="Post()[pri:1, instance:main.TestCases@34f5090e]" started-at="2022-05-17T14:34:27 IST" name="Post" finished-at="2022-05-17T14:34:39 IST" duration-ms="11969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Get()[pri:2, instance:main.TestCases@34f5090e]" started-at="2022-05-17T14:34:39 IST" name="Get" finished-at="2022-05-17T14:34:41 IST" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get -->
+        <test-method signature="Put()[pri:3, instance:main.TestCases@34f5090e]" started-at="2022-05-17T14:34:41 IST" name="Put" finished-at="2022-05-17T14:34:43 IST" duration-ms="1708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put -->
+        <test-method signature="Delete()[pri:4, instance:main.TestCases@34f5090e]" started-at="2022-05-17T14:34:43 IST" name="Delete" finished-at="2022-05-17T14:35:04 IST" duration-ms="21021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method signature="DeleteNegativeScenario()[pri:5, instance:main.TestCases@34f5090e]" started-at="2022-05-17T14:35:04 IST" name="DeleteNegativeScenario" finished-at="2022-05-17T14:35:05 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteNegativeScenario -->
+      </class> <!-- main.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
